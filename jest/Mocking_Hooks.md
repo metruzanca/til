@@ -16,6 +16,5 @@ Inside of my test file, I then added a call to jest.mock like this
 ```javascript
 beforeEach(() => {
   jest.mock('react-router-dom', () => MockUseParams)
-  fixMatchMedia()
 })
 ```
