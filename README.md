@@ -8,3 +8,8 @@ My Today I Learned snippets. Inspired by simonw/til, which I spotted on somewher
 ### Jest
 
 - [Mocking Hooks used in React Components](https://github.com/metruzanca/til/blob/master/jest/Mocking_Hooks.md) - 2020-08-06
+
+
+#### Todo
+- [ ] Automate updating this readme via github workflows
+- [ ] Do something cool like simonw did, but with nodejs/rust instead of python, just because.
