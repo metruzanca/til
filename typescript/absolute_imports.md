@@ -24,11 +24,23 @@ Heres the snippet you need:
 }
 ```
 
-### BONUS: Wanna get rid of the file name? Make sure to add an index.ts inside your `components/` folder and export everything as named imports.
+### BONUS: Wanna import from just `components/`?
+
+e.g.
 
 ```ts
 // SomeContainer.tsx
 import {MyComponent} from 'components'
+```
+
+Just add an index.ts inside the components folder (and any other folder you store types of components in)
+
+```ts
+// components/index.ts
+// if using export default
+export {default as MyComponent} from './Mycomponent'
+// If using named exports
+export * from './Mycomponent'
 ```
 
 _Much cleaner, ain't it?_
