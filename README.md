@@ -6,6 +6,7 @@ My Today I Learned snippets. Inspired by simonw/til, which I spotted on somewher
 - [Jest](#jest)
 - [Typescript](#typescript)
 - [Github Actions](#github actions)
+- [Git](#git)
 
 
 ### Jest
@@ -18,8 +19,11 @@ My Today I Learned snippets. Inspired by simonw/til, which I spotted on somewher
 
 ### Github Actions
 
-- [Frontend Continuos Deployment with github actions and github pages](https://github.com/metruzanca/til/blob/master/github_actions/deploy_static-site_to_gh-pages.md
-) - 2020-08-17
+- [Frontend Continuos Deployment with github actions and github pages](https://github.com/metruzanca/til/blob/master/github_actions/deploy_static-site_to_gh-pages.md) - 2020-08-17
+
+### Git
+
+- [Correctly Renaming Branches](https://github.com/metruzanca/til/blob/master/git/rename_branches.md) - 2020-08-17
 
 #### Todo
 - [ ] Automate updating this readme via github workflows
