@@ -5,6 +5,8 @@ My Today I Learned snippets. Inspired by simonw/til, which I spotted on somewher
 ## Categories
 - [Jest](#jest)
 - [Typescript](#typescript)
+- [Github Actions](#github actions)
+
 
 ### Jest
 
@@ -13,6 +15,11 @@ My Today I Learned snippets. Inspired by simonw/til, which I spotted on somewher
 ### Typescript
 
 - [Setting up Absolute Imports with Typescript](https://github.com/metruzanca/til/blob/master/typescript/absolute_imports.md) - 2020-08-17
+
+### Github Actions
+
+- [Frontend Continuos Deployment with github actions and github pages](https://github.com/metruzanca/til/blob/master/github_actions/deploy_static-site_to_gh-pages.md
+) - 2020-08-17
 
 #### Todo
 - [ ] Automate updating this readme via github workflows
