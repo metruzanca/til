@@ -12,6 +12,7 @@ My Today I Learned snippets. Inspired by simonw/til, which I spotted on somewher
 ### Jest
 
 - [Mocking Hooks used in React Components](https://github.com/metruzanca/til/blob/master/jest/Mocking_Hooks.md) - 2020-08-06
+- [Mocking Axios](https://github.com/metruzanca/til/blob/master/jest/Mock_Axios.md) - 2020-08-24
 
 ### Typescript
 
