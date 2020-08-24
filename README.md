@@ -5,7 +5,7 @@ My Today I Learned snippets. Inspired by simonw/til, which I spotted on somewher
 ## Categories
 - [Jest](#jest)
 - [Typescript](#typescript)
-- [Github Actions](#github actions)
+- [Github Actions](#github-actions)
 - [Git](#git)
 
 
