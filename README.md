@@ -7,7 +7,7 @@ My Today I Learned snippets. Inspired by simonw/til, which I spotted on somewher
 - [Typescript](#typescript)
 - [Github Actions](#github-actions)
 - [Git](#git)
-
+- [Kotlin](#kotlin)
 
 ### Jest
 
@@ -25,6 +25,10 @@ My Today I Learned snippets. Inspired by simonw/til, which I spotted on somewher
 ### Git
 
 - [Correctly Renaming Branches](https://github.com/metruzanca/til/blob/master/git/rename_branches.md) - 2020-08-17
+
+### Kotlin
+
+ - [Brain dump of kotlin WIP](https://github.com/metruzanca/til/blob/master/kotlin/getting_started.md.md) - 2020-08-26
 
 #### Todo
 - [ ] Automate updating this readme via github workflows
