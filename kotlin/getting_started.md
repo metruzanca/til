@@ -40,3 +40,22 @@ listOf(1,2,3,4)
  - first is called —> this is a terminal operation, so, all the intermediate operations are triggered, on each element of the collection. We iterate through the initial collection applying map and then first on each of them. Since the condition from first is satisfied by the 2nd element, then we no longer apply the map on the rest of the collection.
 
 When working with sequences no intermediate collection is created and since items are evaluated one by one, map is only performed on some of the inputs.
+
+### When keyword
+
+```kotlin
+when (x) {
+    in 1..10 -> print("x is in the range")
+    in validNumbers -> print("x is valid")
+    !in 10..20 -> print("x is outside the range")
+    else -> print("none of the above")
+}
+```
+As a replacement for if-else-if-else chains
+```kotlin
+when {
+    x.isOdd() -> print("x is odd")
+    y.isEven() -> print("y is even")
+    else -> print("x+y is even.")
+}
+```
