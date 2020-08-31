@@ -67,3 +67,8 @@ val l = b?.length ?: -1
 ```
 
 If the expression to the left of ?: is not null, the elvis operator returns it, otherwise it returns the expression to the right. Note that the right-hand side expression is evaluated only if the left-hand side is null.
+
+
+## Kotlin learning resources
+
+[How to Kotlin by the Lead Lang Designer](https://www.youtube.com/watch?v=6P20npkvcb8)
