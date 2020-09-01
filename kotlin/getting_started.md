@@ -72,3 +72,8 @@ If the expression to the left of ?: is not null, the elvis operator returns it, 
 ## Kotlin learning resources
 
 [How to Kotlin by the Lead Lang Designer](https://www.youtube.com/watch?v=6P20npkvcb8)
+
+
+## Server Comparison
+
+[Jetbrain's Server Comparison](https://resources.jetbrains.com/storage/products/kotlinconf2018/slides/1_Komparing%20Kotlin%20Server-Side%20Frameworks.pdf)
