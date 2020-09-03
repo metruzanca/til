@@ -77,3 +77,16 @@ If the expression to the left of ?: is not null, the elvis operator returns it, 
 ## Server Comparison
 
 [Jetbrain's Server Comparison](https://resources.jetbrains.com/storage/products/kotlinconf2018/slides/1_Komparing%20Kotlin%20Server-Side%20Frameworks.pdf)
+
+
+## Let operator
+
+## Companion object
+
+## When to use the !! Operator
+use let instead in most cases
+feel free in tests because if it fails, test fail so its fine.
+!! is like unsafe in rust. !! is like saying "I the programmer am confident this will never happen"
+
+
+## if and when as expressions
