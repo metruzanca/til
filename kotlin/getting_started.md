@@ -92,3 +92,6 @@ feel free in tests because if it fails, test fail so its fine.
 
 
 ## if and when as expressions
+
+
+## Data class vs class in terms of hashCode and compare functions
