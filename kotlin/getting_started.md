@@ -80,6 +80,8 @@ If the expression to the left of ?: is not null, the elvis operator returns it, 
 
 
 ## Let operator
+- Careful using let as it can be come a gate for newcommers to the language. Only use when it actually simplifies things.
+
 
 ## Companion object
 
