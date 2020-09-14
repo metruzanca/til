@@ -25,6 +25,7 @@ My Today I Learned snippets. Inspired by simonw/til, which I spotted on somewher
 ### Git
 
 - [Correctly Renaming Branches](https://github.com/metruzanca/til/blob/master/git/rename_branches.md) - 2020-08-17
+- [2 Ways to Squash GIT Commits into one](https://github.com/metruzanca/til/blob/master/git/squash_commits.md) - 2020-08-17
 
 ### Kotlin
 
